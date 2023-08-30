@@ -1,0 +1,10 @@
+
+
+# --- Git ---
+!/.gitattributes
+!/.gitignore
+
+
+
+# --- Backup files ---
+*.bak
