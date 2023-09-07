@@ -2,11 +2,17 @@
 
 ## Styling
 Example Text
+
 **Bold Example Text**
+
 _Italized Example Text_
+
 ~~Strikethrough Example text~~
+
 **Another _test_ Example**
+
 Subscript <sub>Example</sub> text
+
 Superscript <sup>Example</sup> text
 
 ## Quoting
