@@ -43,3 +43,38 @@ This site was built using [Github Pages](https://pages.github.com/).
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/octocat.png)
 
 ## Lists
+
+Unordered list:
+
+* One
+* Two
+* Three
+
+Ordered list:
+
+1. Monday
+1. Tuesday
+1. Wednesday
+
+Nested list:
+
+1. First list item
+	+ Second list item
+		+ Third list item
+		
+## Task lists
+
+- [x] Complete code review.
+- [ ] Run Unit tests.
+- [ ] Run autoimation tests.
+- [ ] \(Optional) Run performance tests
+
+## Alerts
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
