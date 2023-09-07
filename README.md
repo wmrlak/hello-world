@@ -27,3 +27,17 @@ git status
 git diff
 git log
 ```
+## Supported color models
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+HEX `#0969DA`
+
+RGB `rgb(9, 105, 218)`
+
+HSL `hsl(212, 92%, 45%)`
+
+## Links
+This site was built using [Github Pages](https://pages.github.com/).
+
+## Images
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
