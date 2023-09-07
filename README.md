@@ -1,10 +1,23 @@
-# hello-world
-Just a new repository to get used to Git
+# Markdown examples
 
-This should be a new message, found only in the new branch!
+## Styling
+Example Text
+**Bold Example Text**
+_Italized Example Text_
+~~Strikethrough Example text~~
+**Another _test_ Example**
+Subscript <sub>Example</sub> text
+Superscript <sup>Example</sup> text
 
-#Test message 2
+## Quoting
+Text that is not a quote
+> Text that is a quote
 
-#Test message from development branch
+Use `git status` to list all new or modified files that haven't yet been committed.
 
-#Test message from work-pers new set-up
+Some basic git commands:
+```
+git status
+git diff
+git log
+```
